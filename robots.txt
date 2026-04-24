@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://electrical-contractor-louisville-ky.netlify.app/sitemap.xml
